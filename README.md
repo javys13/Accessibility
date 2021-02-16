@@ -5,7 +5,7 @@ In this project I fixed a couple of issues with the code. One of the links in th
 Also, is a quick glimpse in the screenshot of both the deployed page and the css code.
 
 ## Link to deployed application
-Copy the link below and paste in your browser to see the deployed application. </br>
+Click the link below to see the deployed application. </br>
 https://javys13.github.io/Accessibility/
 
 ## Screenshot
